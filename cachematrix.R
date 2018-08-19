@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## First I had to learn what an inverse matrix does - see https://www.mathsisfun.com/algebra/matrix-inverse.html if you are interested
+## used https://matrix.reshish.com/inverCalculation.php to confirm outputs correct
 ##First function takes, gets, and sets a matrix and inverse matrix.
 ##The second checks the first for NULL; if NULL calculates by pulling matrix from first function; 
 ##if not null returns inverse from first function
